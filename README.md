@@ -1,2 +1,1 @@
-# DELL_G3_3590_Hackintosh
-dell3590的OC引导
+[下载链接](https://pan.wps.cn/l/sgDjNSQlEkNy)
