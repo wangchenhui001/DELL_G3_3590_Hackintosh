@@ -1,0 +1,2 @@
+# DELL_G3_3590_Hackintosh
+dell3590的OC引导
